@@ -15,3 +15,5 @@ export OPENAI_API_KEY=your-toke-here
 ```shell
 python3 gomoku.py
 ```
+
+![](https://github.com/partizza/gomoku-ai/blob/master/gomoku.gif)
